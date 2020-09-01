@@ -1,0 +1,30 @@
+h2
+{
+color:darkgrey
+}
+#home_img
+{
+    width: 400px;
+    height: 400px;
+}
+.abt_image {
+    width: 200px; /* width of container */
+    height: 400px; /* height of container */
+    overflow: hidden;
+}
+
+
+
+.cen{
+    text-align:center;
+    }
+    
+.foot{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(126, 207, 235);
+    color: white;
+    text-align: center;
+    }
